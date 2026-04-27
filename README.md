@@ -6,7 +6,7 @@ This project was built for learning purposes as part of a university AI course.
 ## 📊 Results
 | Model | Accuracy |
 |---|---|
-| Random Forest Classifier | - |
+| DecisionTree Classifier | 0.78 |
  
 
  
